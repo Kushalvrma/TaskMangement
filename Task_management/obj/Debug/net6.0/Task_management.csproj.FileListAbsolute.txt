@@ -1,0 +1,260 @@
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\appsettings.Development.json
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\appsettings.json
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.exe
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.deps.json
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.runtimeconfig.json
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.pdb
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Google.Protobuf.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\MySqlConnector.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.AssemblyReference.cache
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.GeneratedMSBuildEditorConfig.editorconfig
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfoInputs.cache
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfo.cs
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CoreCompileInputs.cache
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cs
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cache
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.build.json
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.development.json
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\scopedcss\bundle\Task_management.styles.css
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CopyComplete
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.dll
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\refint\Task_management.dll
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.pdb
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.genruntimeconfig.cache
+F:\kushal V\.net training\Task_management\Task_management\obj\Debug\net6.0\ref\Task_management.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\appsettings.Development.json
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\appsettings.json
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.exe
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.deps.json
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.runtimeconfig.json
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Task_management.pdb
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\ZstdNet.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\MySqlConnector.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mind it systems\.net training\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.AssemblyReference.cache
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfoInputs.cache
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfo.cs
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CoreCompileInputs.cache
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cs
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cache
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.build.json
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.development.json
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\scopedcss\bundle\Task_management.styles.css
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CopyComplete
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.dll
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\refint\Task_management.dll
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.pdb
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\Task_management.genruntimeconfig.cache
+E:\Mind it systems\.net training\Task_management\Task_management\obj\Debug\net6.0\ref\Task_management.dll
+F:\kushal V\.net training\Task_management\Task_management\bin\Debug\net6.0\ZstdNet.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\appsettings.Development.json
+E:\Task_management\Task_management\bin\Debug\net6.0\appsettings.json
+E:\Task_management\Task_management\bin\Debug\net6.0\Task_management.exe
+E:\Task_management\Task_management\bin\Debug\net6.0\Task_management.deps.json
+E:\Task_management\Task_management\bin\Debug\net6.0\Task_management.runtimeconfig.json
+E:\Task_management\Task_management\bin\Debug\net6.0\Task_management.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Task_management.pdb
+E:\Task_management\Task_management\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\ZstdNet.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\MySqlConnector.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.AssemblyReference.cache
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfoInputs.cache
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfo.cs
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CoreCompileInputs.cache
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cs
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cache
+E:\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.build.json
+E:\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.development.json
+E:\Task_management\Task_management\obj\Debug\net6.0\scopedcss\bundle\Task_management.styles.css
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CopyComplete
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.dll
+E:\Task_management\Task_management\obj\Debug\net6.0\refint\Task_management.dll
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.pdb
+E:\Task_management\Task_management\obj\Debug\net6.0\Task_management.genruntimeconfig.cache
+E:\Task_management\Task_management\obj\Debug\net6.0\ref\Task_management.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\appsettings.json
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Task_management.exe
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Task_management.deps.json
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Task_management.runtimeconfig.json
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Task_management.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Task_management.pdb
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.AssemblyReference.cache
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfoInputs.cache
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfo.cs
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CoreCompileInputs.cache
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\scopedcss\bundle\Task_management.styles.css
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CopyComplete
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\refint\Task_management.dll
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.pdb
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\Task_management.genruntimeconfig.cache
+C:\Users\mindit sys\Downloads\Task_management\Task_management\obj\Debug\net6.0\ref\Task_management.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\appsettings.json
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Task_management.exe
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Task_management.deps.json
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Task_management.runtimeconfig.json
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Task_management.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Task_management.pdb
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.AssemblyReference.cache
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfoInputs.cache
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.AssemblyInfo.cs
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CoreCompileInputs.cache
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\scopedcss\bundle\Task_management.styles.css
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.csproj.CopyComplete
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\refint\Task_management.dll
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.pdb
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\Task_management.genruntimeconfig.cache
+C:\Users\mindit sys\Downloads\changes email data\Task_management\Task_management\obj\Debug\net6.0\ref\Task_management.dll
